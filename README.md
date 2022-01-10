@@ -2,13 +2,14 @@
 Tool App
 
 Tool App est une desktop application créer en c# (windows form c#) formé de 6 outils.
+<br/>
 Utiliser Soap service wsdl
 <br/>
 •	Calculatrice: 
 URL wsdl: http://www.dneonline.com/calculator.asmx?wsdl
- 
+ <br/><br/>
 Utiliser Restful api
-
+<br/>
 Méthode : Http client 
 La classe HttpClient fournit une classe de base pour envoyer/recevoir les requêtes/réponses HTTP à partir d'une URL. Il est pris en charge par la fonctionnalité asynchrone (Toutes les méthodes avec HttpClient sont asynchrones.)
 
