@@ -3,6 +3,7 @@ Tool App
 
 Tool App est une desktop application créer en c# (windows form c#) formé de 6 outils.
 Utiliser Soap service wsdl
+<br/>
 •	Calculatrice: 
 URL wsdl: http://www.dneonline.com/calculator.asmx?wsdl
  
