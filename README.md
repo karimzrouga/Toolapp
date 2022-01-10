@@ -6,18 +6,22 @@ Tool App est une desktop application créer en c# (windows form c#) formé de 6 
 Utiliser Soap service wsdl
 <br/>
 •	Calculatrice: 
+<br/>
 URL wsdl: http://www.dneonline.com/calculator.asmx?wsdl
  <br/><br/>
 Utiliser Restful api
 <br/>
 Méthode : Http client 
+<br/>
 La classe HttpClient fournit une classe de base pour envoyer/recevoir les requêtes/réponses HTTP à partir d'une URL. Il est pris en charge par la fonctionnalité asynchrone (Toutes les méthodes avec HttpClient sont asynchrones.)
-
+<br/>
 •	Myip :  permet d'identifier adresse ip de la machine sur le réseau
+<br/>
 Endpoint : https://api.ipify.org?format=json
 Methode: get
+<br/>
 Response format: JSON
-
+<br/>
  
 
 
